@@ -2,7 +2,7 @@ Input your initial state, goal state and DFS graph in the input file
 The first row is the initial state
 The second row is the goal state
 The third row is the graph
-Each adjacent node will be placed within a parenthesis, separating the two points into commas
+Each adjacent node will be placed within a parenthesis, separating the two nodes into commas
 Each node will be enclosed in a quotation mark
 All of this will be in a square at both ends.
 
